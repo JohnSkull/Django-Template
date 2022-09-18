@@ -1,0 +1,3 @@
+[submodule "Django Setup/mysite/Django Setup/mysite/Django-Template"]
+	path = Django Setup/mysite/Django Setup/mysite/Django-Template
+	url = https://github.com/JohnSkull/Django-Template
